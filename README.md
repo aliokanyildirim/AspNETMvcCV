@@ -17,17 +17,14 @@ Proje, ASP.NET Framework, SQL Server, MVC, CSS, ve HTML kullanılarak geliştiri
 - Sosyal Medya Hesaplarını Yönetebilme
 # Ekran Görüntüleri
 # Oluşturulan Model
-![Screenshot 2023-12-13 042521](https://github.com/aliokanyildirim/ASPNETMvcCV/assets/116041297/9b972551-7b0c-488e-b97b-143d418fb57b)
+![Screenshot 2023-12-13 042521](https://github.com/aliokanyildirim/AspNETMvcCV/assets/116041297/2b7b3819-18b6-448a-a0e5-e757a564db81)
 # Panel Login
-![CV1](https://github.com/aliokanyildirim/ASPNETMvcCV/assets/116041297/4dc67bec-eec1-4b50-8bb1-08b94e06fdcf)
-# Eğitimlerim 
-![CV4](https://github.com/aliokanyildirim/ASPNETMvcCV/assets/116041297/eddd8552-a0d1-41b0-a9b1-a5aae34e2470)
-# Eğitim Düzenle
-![CV5](https://github.com/aliokanyildirim/ASPNETMvcCV/assets/116041297/d7834d9b-8e06-4abf-b934-6b727d06b4a7)
+![CV1](https://github.com/aliokanyildirim/AspNETMvcCV/assets/116041297/dbe1619e-da29-480a-b266-89ace8ac1b06)
 # İletişim
-![CV7](https://github.com/aliokanyildirim/ASPNETMvcCV/assets/116041297/09888ae0-34e2-4ab9-bc18-863e8fef174b)
+![CV7](https://github.com/aliokanyildirim/AspNETMvcCV/assets/116041297/5d0dc002-d2b6-4338-b2cc-a342d0eaef09)
 # Mesaj Gönder
-![CV8](https://github.com/aliokanyildirim/ASPNETMvcCV/assets/116041297/9837e51a-b0aa-423d-97ed-a957544cf130)
+![CV8](https://github.com/aliokanyildirim/AspNETMvcCV/assets/116041297/b2cf887d-e075-40da-b645-50166e15f4df)
+
 # Yetenek Liste
-![CV6](https://github.com/aliokanyildirim/ASPNETMvcCV/assets/116041297/9adc6a9a-a030-4fdd-ad77-a3232df86ccd)
+![CV6](https://github.com/aliokanyildirim/AspNETMvcCV/assets/116041297/ee788e95-f70a-473b-ae9f-42df6a8f3c84)
 
